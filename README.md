@@ -1,11 +1,10 @@
-# dashboard_transactions
+# Power BI | Dashboard Transações E-commerce
+
 Dashboard no Power BI com KPIs e gráficos interativos com dados de transações de um e-commerce dos EUA.
 
-Para mostrar seu projeto no GitHub, crie um README.md bem estruturado. Não basta apenas subir o arquivo .pbix.
+![Dashboard](images/dash_transacoes-print.png)
 
-Estrutura recomendada para o seu arquivo README:
 
-Título do Projeto: Nome impactante.
 
 Imagem/GIF: Coloque um print do dashboard (ou um GIF animado navegando pelos filtros).
 
