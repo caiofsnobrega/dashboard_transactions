@@ -8,12 +8,18 @@ Dashboard no Power BI com KPIs e gráficos interativos com dados de transações
 
 Imagem/GIF: Coloque um print do dashboard (ou um GIF animado navegando pelos filtros).
 
-Objetivo do Projeto: Qual problema você resolveu com esses dados?
+### Objetivo do Projeto: 
+Este dashboard 
 
-Tecnologias Utilizadas: (Ex: Power BI, DAX, Power Query, SQL).
+![Estados_GIF](images/capture_transacao_estados.gif)
 
-Principais Desafios: Destaque algo técnico que você fez (ex: "Criei uma medida DAX para calcular o YTD" ou "Tratei a base no Power Query").
+### Tecnologias Utilizadas: Power BI, Power Query
 
-Como Acessar: * Opção A: Link para o dashboard publicado (se disponível).
+### Principais Desafios: Destaque algo técnico que você fez (ex: "Criei uma medida DAX para calcular o YTD" ou "").
+Tratei a base no Power Query e criei medidas para gerar os KPIs. Para o indicador de recompra, por exemplo, dividi o valor da contagem de clientes únicos pela quantidade total de transações.
 
-Opção B: Instrução: "Baixe o arquivo .pbix nesta pasta para visualizar localmente no seu Power BI Desktop".
+![KPIs](images/kpis_dash_transacoes.png)
+
+![Dashboard_GIF](images/capture_dash_transacoes.gif)
+
+Como acessar: "Baixe o arquivo .pbix nesta pasta para visualizar localmente no seu Power BI Desktop".
