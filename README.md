@@ -1,8 +1,8 @@
-# Power BI | Dashboard Transações E-commerce
+# Power BI | Dashboard Transações E-commerce  
 
-### Dashboard no Power BI com KPIs e gráficos interativos com dados de transações de um e-commerce dos EUA.  
+*[Click here for the English version](README-en.md)*
 
-*[Veja a versão em Português aqui](README.md)*
+### Dashboard no Power BI com KPIs e gráficos interativos com dados de transações de um e-commerce dos EUA. 
 
 
 ![Dashboard](images/dash_transacoes-print.png)  
