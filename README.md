@@ -22,7 +22,9 @@ Tratei a base no Power Query e criei medidas para gerar os KPIs. Para o indicado
 
 ![KPIs](images/kpis_dash_transacoes.png)  
 
+O painel permite ainda levantar informações relevantes como por meio da tabela de categorias mais vendidas, permitindo ranquear por número de transações ou por faturamento, além de visualização em barras das categorias agrupadas por compras de acordo com o gênero.  
 
+A respeito de gênero, um gráfico é dedicado somente a mostrar as transações gerais por sexo, e, para evidenciar os estados com mais vendas, incluí uma visualização de barras horizontais exibindo também o número de transações realizadas em cada localidade.
 
 
 
